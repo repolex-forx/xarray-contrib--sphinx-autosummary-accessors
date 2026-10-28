@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "sphinx-autosummary-accessors",
+  "versions": [
+    {
+      "commit": "80a489796411ea1d68041f8fe39e33420a09f1a4",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:26:40.409814+00:00"
+    }
+  ]
+}
