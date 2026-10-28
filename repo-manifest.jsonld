@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/sphinx-autosummary-accessors/commit/80a489796411ea1d68041f8fe39e33420a09f1a4",
       "git:hexsha": "80a489796411ea1d68041f8fe39e33420a09f1a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/sphinx-autosummary-accessors/commit/2fe437e75b1d7084e90bc4aed28be03a64ccc52b",
